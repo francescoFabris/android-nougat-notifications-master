@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android N Notification</string>
+    <string name="title_activity_notification_open">NotificationOpenActivity</string>
+</resources>
